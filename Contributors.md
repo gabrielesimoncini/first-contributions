@@ -4397,6 +4397,7 @@ Pereira
 - [Ahmed El Otmani](https://github.com/OtmaniCodes)
 - [Jerry Ngueyn] (https://github.com/jerry-ng2) **First commit!**
 - [Sethika Manumitha](https://github.com/SethikaManumitha/)
+- [Gabriele Simoncini] (https://github.com/gabrielesimoncini/)
 -[Soyoon Moon](https://github.com/soyoonmoon)
 - [Hadi-M-Taheri](https://github.com/hadi-mollataheri)
 -[vishnu](https://github.com/Vishnhj-n)
